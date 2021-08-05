@@ -1,0 +1,3 @@
+[submodule "packages/weekly"]
+	path = packages/weekly
+	url = https://github.com/leeken2/weekly.git
