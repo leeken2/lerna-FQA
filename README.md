@@ -16,7 +16,7 @@ module.exports = {
 ```
 ### 参考
 
-[npm link with webpack - cannot find module](https://stackoverflow.com/questions/37769228/npm-link-with-webpack-cannot-find-module)
+[npm link with webpack - cannot find module](https://stackoverflow.com/questions/37769228/npm-link-with-webpack-cannot-find-module)  
 [webpack中对symlinks的warning](https://webpack.docschina.org/configuration/module/#rule-conditions)
 
 keyword：webpack link package
