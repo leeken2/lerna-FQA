@@ -16,6 +16,10 @@ module.exports = {
     }
 };
 ```
+### 结论
+
+可以通过 resolve.symlinks 关闭符号链接解析（以便将资源解析为符号链接路径）。
+
 ### 参考
 
 [npm link with webpack - cannot find module](https://stackoverflow.com/questions/37769228/npm-link-with-webpack-cannot-find-module)  
