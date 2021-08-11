@@ -44,9 +44,10 @@ module.exports = {
 
 > keyword: lerna hoist
 
-### lerna 整合后，umi 项目可以监听 node_modules 的内容了
+## lerna 整合后，umi 项目可以监听 node_modules 的内容了
 
 单独 umi 项目即使是设置了 `WATCH_IGNORED` 也是不支持监听 node_modules 的，具体原因不明  
 但是可以很明确的知道 node_modules 下的文件也是可以监听的 [watchpack watch not triggering when symlinked node_module files are modified when using webpack 'symlinks: true'](https://github.com/webpack/watchpack/issues/61)  
+### 参考
 [umi WATCH_IGNORED](https://umijs.org/docs/env-variables#watch_ignored)  
 
