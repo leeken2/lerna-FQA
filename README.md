@@ -41,3 +41,5 @@ module.exports = {
 ### 参考
 [npm 的语义版本控制](http://nodejs.cn/learn/semantic-versioning-using-npm)  
 [Lerna Hoisting](https://github.com/lerna/lerna/blob/main/doc/hoist.md)
+
+> keyword: lerna hoist
