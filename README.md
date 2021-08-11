@@ -39,5 +39,5 @@ module.exports = {
 建议始终使用 `--hoist`,可以方便排查问题  
 
 ### 参考
-(npm 的语义版本控制)[http://nodejs.cn/learn/semantic-versioning-using-npm]
-(Lerna Hoisting)[https://github.com/lerna/lerna/blob/main/doc/hoist.md]
+[npm 的语义版本控制](http://nodejs.cn/learn/semantic-versioning-using-npm)  
+[Lerna Hoisting](https://github.com/lerna/lerna/blob/main/doc/hoist.md)
